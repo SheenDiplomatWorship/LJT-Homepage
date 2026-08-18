@@ -55,7 +55,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Reviewer for EMNLP 2024, ICML 2024, and NeurIPS 2023
